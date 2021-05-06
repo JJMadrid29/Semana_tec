@@ -20,7 +20,7 @@ Despues de clonar este repositorio, es necesario instalar:
     Link con los modelos utilizados:
     ```
         https://drive.google.com/drive/folders/1A5ECP3KaVRp9pwEEqLo6wU_LiVF5Fjr5?usp=sharing
-```
+    ``` 
 ### ¿Que hace?
         *El código trabaja como un filtro, poniendo en la cara del usiario una imagen, en este caso ha programado con una imagen en especifico, sin embargo esta se puede cambiar ingresando al archivo y cambiandola por la imagen deseada.
 
@@ -37,7 +37,7 @@ Nota: se debe de corren en la carpeta en la que se encuentren los archivos.
 
 
 
-##Código de referencia
+## Código de referencia
 Código realizado en base al código de Gaby Sol no. 19-Filtro Gorro Tiara
 [GitHub](https://github.com/GabySol/OmesTutorials2020)Proyecto_Sem
  Filtro para cara
